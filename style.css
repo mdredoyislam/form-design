@@ -1,0 +1,48 @@
+.form-txt {
+	background: #ddd;
+	padding: 25px;
+}
+.name {
+	font-size: 25px;
+	font-weight: 600;
+	color: gray;
+    padding: 10px;
+}
+.name input{
+    padding-left: 10px;
+}
+#name {
+	width: 350px;
+	height: 54px;
+	font-size: 25px;
+	font-weight: 600;
+	border-radius: 10px;
+	border: none;
+	margin-right: 30px;
+}
+#Zip {
+	height: 40px;
+	width: 152px;
+	font-size: 20px;
+	font-weight: 600;
+	border: navajowhite;
+}
+#area {
+	width: 107px;
+	height: 34px;
+	font-size: 17px;
+	font-weight: 600;
+	color: #ddd;
+}
+ .form-txt h2 {
+	font-size: 45px;
+	font-weight: 600;
+	color: red;
+	margin-bottom: 27px;
+}
+#number {
+	height: 35px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #ddd;
+}
